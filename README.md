@@ -2,6 +2,14 @@
 
 El experimento de la doble rendija es una de las demostraciones más caracteristicas de la mecánica cuántica. Muestra el comportamiento ondulatorio de las partículas y plantea preguntas importantes y basicas sobre la naturaleza de la realidad y la observación en la física.
 
+## Objetivo
+
+En este ejercicio, creará una simulación del experimento de la doble rendija utilizando Python. A diferencia de las interpretaciones basadas en partículas, modelará la luz como ondas y observará el patrón de interferencia que surge cuando las ondas pasan a través de dos rendijas y se superponen en una pantalla. Esta simulación lo ayudará a visualizar cómo se forman los patrones de interferencia constructivos y destructivos.
+
+### Antecedentes
+
+El experimento de la doble rendija demuestra la dualidad onda-partícula de la luz y la materia. Cuando la luz coherente pasa a través de dos rendijas muy espaciadas, crea un patrón de interferencia de franjas brillantes y oscuras en una pantalla de detección. Este patrón resulta de la interferencia constructiva y destructiva de las ondas que emanan de las rendijas.
+
 ## Comenzando
 
 Estas instrucciones nos permitieron replicar el experimento de la doble rendija en un montaje experimental. 
